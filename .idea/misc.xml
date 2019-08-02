@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.7.2 (sftp://root@192.168.110.128:22/root/dfg/anaconda3/envs/django-scrapy/bin/python3)" project-jdk-type="Python SDK" />
+</project>
